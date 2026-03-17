@@ -430,6 +430,10 @@ nav ul .fa-solid{
     max-width:300px;
     height:auto;
 }
+.about-col-2 p{
+    text-align: justify;
+    line-height: 1.6;
+}
 
 .about-col-2{
     text-align:center;
